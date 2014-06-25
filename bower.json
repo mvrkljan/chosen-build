@@ -1,0 +1,22 @@
+{
+  "name": "chosen-build",
+  "version": "1.1.0",
+  "homepage": "https://github.com/mvrkljan/chosen-build",
+  "description": "Chosen jQuery plugin, only built files.",
+  "main": [
+    "./chosen.css",
+    "./chosen.jquery.js"
+  ],
+  "keywords": [
+    "chosen",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
