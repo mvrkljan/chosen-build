@@ -5,7 +5,8 @@
   "description": "Chosen jQuery plugin, only built files.",
   "main": [
     "./chosen.css",
-    "./chosen.jquery.js"
+    "./chosen.jquery.js",
+    "./chosen.proto.js"
   ],
   "keywords": [
     "chosen",
